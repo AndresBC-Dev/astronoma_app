@@ -1,0 +1,1 @@
+import calculadorEdad from "./script";
